@@ -18,6 +18,7 @@ button {
   background-color: #3a0061;
   color: white;
   cursor: pointer;
+  border-radius: 3px;
 }
 
 button:hover,

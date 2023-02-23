@@ -94,6 +94,10 @@ textarea {
   border-radius: 3px;
 }
 
+input {
+  height: 2.5rem;
+}
+
 input:focus,
 textarea:focus {
   outline: none;
